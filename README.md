@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/shitwentby" target="blank"><img src="https://img.shields.io/twitter/follow/shitwentby?logo=twitter&style=for-the-badge" alt="shitwentby" /></a> </p>
 
-- 📙 I’m currently studying with **Bangkit Academy**
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **Python, Tensorflow**
-
-- 📫 How to reach me **dhyoprd@gmail.com**
+- 😴 **Currently Sleeping:** ZzZzZ
+- 🌱 **Learning Focus:** Machine Learning  
+- 💻 **Proficiencies:** Python, TensorFlow  
+- 💬 **Feel Free to Ask About:** Python programming and TensorFlow  
+- 📫 **How to Reach Me:** [dhyoprd@gmail.com](mailto:dhyoprd@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
