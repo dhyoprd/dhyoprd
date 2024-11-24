@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhyo Pradnyadiva</h1>
+<h1 align="center">Hi👋, I'm Dhyo</h1>
 <h3 align="center">Undergraduate Electrical Engineering Student at Udayana University</h3>
 <img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/942833979452153495/B7720B00A527731E6DF8203A9600B212DC4BA518/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
