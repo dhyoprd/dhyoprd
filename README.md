@@ -9,8 +9,7 @@
 
 - 😴 **Currently Sleeping:** ZzZzZ
 - 🌱 **Learning Focus:** Machine Learning  
-- 💻 **Proficiencies:** Python, TensorFlow  
-- 💬 **Feel Free to Ask About:** Python programming and TensorFlow  
+- 💻 **Proficiencies:** Python, TensorFlow, Pytorch  
 - 📫 **How to Reach Me:** [dhyoprd@gmail.com](mailto:dhyoprd@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
