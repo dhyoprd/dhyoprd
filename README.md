@@ -10,7 +10,7 @@
 - 😴 **Currently Sleeping:** ZzZzZ
 - 🌱 **Learning Focus:** Machine Learning  
 - 💻 **Proficiencies:** Python, TensorFlow, Pytorch  
-- 📫 **How to Reach Me:** [dhyoprd@gmail.com](mailto:dhyoprd@gmail.com)
+- 📫 **How to Reach Me:** [dhyoprd@outlook.com](mailto:dhyoprd@outlook.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
